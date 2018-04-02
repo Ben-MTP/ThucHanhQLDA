@@ -1,7 +1,7 @@
-The project was inspired by the absence of such applications compatible with old phones and old versions of Android. It aims to provide an attractive look and follow the most recent design guidelines of the Google operating system.
+﻿The project was inspired by the absence of such applications compatible with old phones and old versions of Android. It aims to provide an attractive look and follow the most recent design guidelines of the Google operating system.
 
 Follow the developments and post your comments and advice on Google+ Beta Community at http://goo.gl/eF6qqF
-
+--
 Help to keep translations updated is always welcome, if you want give a hand checkout the translation project at Crowdin.
 
 Features:
