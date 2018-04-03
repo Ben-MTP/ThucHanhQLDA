@@ -2,6 +2,7 @@
 *.apk
 *.ap_
 
+
 # lint folder
 lint
 
